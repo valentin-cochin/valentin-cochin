@@ -1,7 +1,19 @@
-### Hi there 👋
+## Hello! I'm Valentin Cochin. 💻✨
+
+### 🌱 I’m currently learning
+- Java ☕
+  - Spring
+  - Multi-threading
+- JavaScript
+- Python 🐍
+	- Image processing
+	- Django
+
+### 📫 How to reach me
+- [LinkedIn](https://www.linkedin.com/in/valentin-cochin/)
+- Blog  🚀 *coming soon*
 
 <!--
-**valentin-cochin/valentin-cochin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
