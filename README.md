@@ -22,19 +22,25 @@ After 4 years of experience in project management, I became passionate about com
 
 ## 🧠 My technical knowledge
 ### 📚 Languages and frameworks
-- HTML5 / CSS3
-- Java (JavaFx | Spring)
+- Angular
+- HTML5 / CSS3 / SASS
+- Java (JavaFX | JSP | Servlet | Spring)
 - JavaScript (NodeJs)
+- MongoDB
 - Python (Django | Matplotlib | Numpy | Pandas | Seaborn)
 - R
+- SQL (MySQL | PostgreSQL)
 
 ### 🔧 Tools
 - Cloud computing (AWS EC2)
-- Version control (Git | GitKraken)
-- IDE (VS Code | Pycharm | Eclipse)
+- IDE (Eclipse | Pycharm | VS Code)
+- DevOps (Docker | Kubernetes)
 - Organisation (Trello)
+- Version control (Git | GitKraken)
 
 ## 📫 How to reach me
 - [LinkedIn](https://www.linkedin.com/in/valentin-cochin/) 🤝
 - [Codingame](https://www.codingame.com/profile/2e4ee20797febd5a5e5ad32da5a0ab9e4171104) 👾
 - Blog  🚀 *coming soon*
+
+![Valentin's github stats](https://github-readme-stats.vercel.app/api?username=valentin-cochin&show_icons=true&hide=stars,issues&theme=vue)
