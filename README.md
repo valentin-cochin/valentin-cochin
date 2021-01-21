@@ -1,7 +1,7 @@
 <h1 align="center">Hello! I am Valentin Cochin. 💻✨</h1>
 
 <p align="justify">
-After 4 years of experience in project management, I became passionate about computer science. I am currently training to become an application developer, fluent in English, I am looking for an intership in Europe, Asia or remote from May to August. If you want more information, please look my <a href=https://cvdesignr.com/p/5f3e51cd754b0>online CV</a>. You can also go to my <a href=https://www.linkedin.com/in/valentin-cochin/>LinkedIn profile</a>.
+After 4 years of experience in project management, I became passionate about computer science. I am currently training to become an application developer, fluent in English, I am looking for a three-month internship starting June 1st in Europe, Asia or remote. If you want more information, please look my <a href=https://cvdesignr.com/p/5f3e51cd754b0>online CV</a>. You can also go to my <a href=https://www.linkedin.com/in/valentin-cochin/>LinkedIn profile</a>.
 </p>
 
 ## 🌱 I am currently digging into
@@ -10,7 +10,7 @@ After 4 years of experience in project management, I became passionate about com
 - Multi-threading
 
 ### 📄 JavaScript
-- Event-loop
+- jQuery
 
 ### 🐍 Python
 - Image processing
@@ -23,10 +23,9 @@ After 4 years of experience in project management, I became passionate about com
 ## 🧠 My technical knowledge
 ### 📚 Languages and frameworks
 - Angular
-- HTML5 / CSS3 / SASS
-- Java (JavaFX | JSP | Servlet | Spring)
-- JavaScript (NodeJs)
-- MongoDB
+- HTML5 / CSS3 (Bootstrap | SASS)
+- Java (JavaFX | JUnit | JSP | Maven | Servlet | Spring)
+- JavaScript (jQuery | NodeJs)
 - Python (Django | Matplotlib | Numpy | Pandas | Seaborn)
 - R
 - SQL (MySQL | PostgreSQL)
