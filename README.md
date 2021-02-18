@@ -1,13 +1,13 @@
 <h1 align="center">Hello! I am Valentin Cochin. 💻✨</h1>
 
 <p align="justify">
-After 4 years of experience in project management, I became passionate about computer science. I am currently training to become an application developer, fluent in English, I am looking for a three-month internship starting June 1st in Europe, Asia or remote. If you want more information, please look my <a href=https://cvdesignr.com/p/5f3e51cd754b0>online CV</a>. You can also go to my <a href=https://www.linkedin.com/in/valentin-cochin/>LinkedIn profile</a>.
+After 4 years of experience in project management, I became passionate about computer science. I am currently training to become an application developer, fluent in English,  I am looking for a internship or a job starting June 1st. in Asia, Europe or remote. If you want more information, please look my <a href=https://cvdesignr.com/p/5f3e51cd754b0>online CV</a>. You can also go to my <a href=https://www.linkedin.com/in/valentin-cochin/>LinkedIn profile</a>.
 </p>
 
 ## 🌱 I am currently digging into
 ### ☕ Java
-- Spring
-- Multi-threading
+- Servlet
+- JSP
 
 ### 📄 JavaScript
 - jQuery
@@ -31,7 +31,7 @@ After 4 years of experience in project management, I became passionate about com
 - SQL (MySQL | PostgreSQL)
 
 ### 🔧 Tools
-- Cloud computing (AWS EC2)
+- Cloud computing (AWS EC2, Lightsail RDS)
 - IDE (Eclipse | Pycharm | VS Code)
 - DevOps (Docker | Kubernetes)
 - Organisation (Trello)
