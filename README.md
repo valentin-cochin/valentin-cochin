@@ -6,11 +6,10 @@ After 4 years of experience in project management, I became passionate about com
 
 ## 🌱 I am currently digging into
 ### ☕ Java
-- Servlet
-- JSP
+- Spring
 
 ### 📄 JavaScript
-- jQuery
+- NodeJs
 
 ### 🐍 Python
 - Image processing
@@ -18,7 +17,7 @@ After 4 years of experience in project management, I became passionate about com
 
 ### 💡 Other
 - Clean code
-- Design-patterns
+- Pragmatic programming
 
 ## 🧠 My technical knowledge
 ### 📚 Languages and frameworks
