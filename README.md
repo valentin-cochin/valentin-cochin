@@ -1,16 +1,21 @@
 <h1 align="center">Hello! I am Valentin Cochin. 💻✨</h1>
 
 <p align="justify">
-After 4 years of experience in project management, I became passionate about computer science. I am currently training to become an application developer, fluent in English,  I am looking for a internship or a job starting June 1st. in Asia, Europe or remote. If you want more information, please look my <a href=https://cvdesignr.com/p/5f3e51cd754b0>online CV</a>. You can also go to my <a href=https://www.linkedin.com/in/valentin-cochin/>LinkedIn profile</a>.
+After 4 years of experience in project management, I became passionate about computer science. Therefore, I decided to train as an application developer which leads me to get a job opportunity. Fluent in English, I am creating a technical blog to expand my programming and teaching skills. If you want more information, please look my <a href=https://cvdesignr.com/p/5f3e51cd754b0>online CV</a>. You can also go to my <a href=https://www.linkedin.com/in/valentin-cochin/>LinkedIn profile</a>. <strong>Do not hesitate to contact me there</strong>.
 </p>
 
 ## 🌱 I am currently digging into
-### ☕ Java
-- Android
-- Mockito
 
-### 📄 JavaScript
-- React
+### 💨 Go
+- HTTP with Go
+- Goroutines
+
+### ☕ Java
+- Hibernate
+- Spring
+
+### 📜 JavaScript
+- JavaScript Ninja
 
 ### 🐍 Python
 - Flask
@@ -18,10 +23,11 @@ After 4 years of experience in project management, I became passionate about com
 
 ### 💡 Other
 - Clean code
-- Pragmatic programming
+- Software Architecture
 
 ## 🧠 My technical knowledge
 ### 📚 Languages and frameworks
+- Go
 - HTML5 / CSS3 (Bootstrap | SASS)
 - Java (Gradle | JavaFX | JUnit | JSP | J2EE | Maven | Spring | SpringBoot)
 - JavaScript (jQuery | NodeJs)
@@ -31,15 +37,15 @@ After 4 years of experience in project management, I became passionate about com
 - SQL (MySQL | PostgreSQL)
 
 ### 🔧 Tools
-- Cloud computing (AWS EC2, Lightsail RDS)
-- IDE (Eclipse | Pycharm | VS Code)
-- DevOps (Docker | Kubernetes)
+- Cloud computing (Azure, AWS, DigitalOcean, Heroku)
+- IDE (Eclipse | JetBrains | VS Code)
+- DevOps (Docker | Docker Compose | Docker Machine | Travis CI)
 - Organisation (Jira | Trello)
 - Version control (Git | GitKraken)
 
 ## 📫 How to reach me
 - [LinkedIn](https://www.linkedin.com/in/valentin-cochin/) 🤝
 - [Codingame](https://www.codingame.com/profile/2e4ee20797febd5a5e5ad32da5a0ab9e4171104) 👾
-- Blog 🚀 *coming in June*
+- Blog 🚀 *coming in July*
 
 ![Valentin's github stats](https://github-readme-stats.vercel.app/api?username=valentin-cochin&show_icons=true&hide=stars,issues&theme=vue)
