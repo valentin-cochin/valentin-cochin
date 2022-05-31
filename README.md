@@ -1,7 +1,7 @@
 <h1 align="center">Hello! I am Valentin Cochin. 💻✨</h1>
 
 <p align="justify">
-After 4 years of experience in project management, I became passionate about computer science. Therefore, I decided to train as an application developer which lead me to get a job opportunity in this field. Fluent in English, I am creating a technical blog to expand my programming and teaching skills. If you want more information, please look my <a href=https://cvdesignr.com/p/5f3e51cd754b0>online CV</a>. You can also go to my <a href=https://www.linkedin.com/in/valentin-cochin/>LinkedIn profile</a>. <strong>Do not hesitate to contact me there</strong> 😄.
+After 4 years of experience in project management, I became passionate about computer science. Therefore, I decided to train as an application developer which lead me to get a job opportunity in this field. Fluent in English, I am creating a technical blog to expand my programming and teaching skills. If you want more information, please look my <a href=https://cvdesignr.com/p/624c19c811291>online CV</a>. You can also go to my <a href=https://www.linkedin.com/in/valentin-cochin/>LinkedIn profile</a>. <strong>Do not hesitate to contact me there</strong> 😄.
 </p>
 
 ## 🌱 I am currently digging into
@@ -13,11 +13,11 @@ After 4 years of experience in project management, I became passionate about com
 
 ### 📜 JavaScript
 
-- JavaScript Ninja
+- React patterns
 
 ### 🐍 Python
 
-- Requests
+- Concurrency
 
 ### 💡 Other
 
@@ -27,6 +27,7 @@ After 4 years of experience in project management, I became passionate about com
 
 ### 📚 Languages and frameworks
 
+- Apex
 - Go
 - HTML5 / CSS3 (Bootstrap | SASS)
 - Java (Gradle | JavaFX | JUnit | JSP | J2EE | Maven | Spring | SpringBoot)
@@ -42,7 +43,7 @@ After 4 years of experience in project management, I became passionate about com
 - IDE (Eclipse | JetBrains | VS Code)
 - DevOps (Docker | Docker Compose | Docker Machine | Travis CI)
 - Organisation (Jira | Mantis | Trello)
-- Version control (Git | GitKraken)
+- Version control (Git | GitKraken | SVN)
 
 ## 📫 How to reach me
 
